@@ -1,0 +1,66 @@
+#car-tech {
+    padding: 40px 20px; /* 상단 패딩 줄이기 */
+    margin-top: -30px; /* 섹션을 위로 당기기 */
+}
+
+#car-tech h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.tech-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.tech-item {
+    background-color: white;
+    width: 30%;
+    position: relative;
+    border: black;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    overflow: hidden;
+}
+
+.tech-item:hover {
+    transform: scale(1.05); /* 호버 시 확장 효과 */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* 그림자 강조 */
+}
+
+.tech-image {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.tech-info {
+    padding: 20px;
+    text-align: left;
+}
+
+.tech-info h3 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+.tech-info p {
+    font-size: 1rem;
+    color: #555;
+}
+
+@media (max-width: 768px) {
+    .tech-item {
+        width: 45%;
+    }
+}
+
+@media (max-width: 480px) {
+    .tech-item {
+        width: 100%;
+    }
+}
