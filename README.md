@@ -22,4 +22,3 @@
 ![image](https://github.com/user-attachments/assets/f3952168-df3e-45a2-a64c-d99e004e7c6f)
 
 
-## 폴더 구조
