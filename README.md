@@ -11,7 +11,20 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 
 ## 폴더구조
-
+📦HANSUNG-main
+ ┣ 📂images
+ ┃ ┣ 📂CAR img
+ ┃ ┣ 📂INTRO img
+ ┃ ┣ 📂SNS icon
+ ┃ ┗ 📂TECH img
+ ┣ 📂styles
+ ┃ ┣ 📜0_style.css
+ ┃ ┣ 📜1_header.css
+ ┃ ┣ 📜2_intro.css
+ ┃ ┣ 📜3_model.css
+ ┃ ┣ 📜4_skill.css
+ ┃ ┗ 📜5_footer.css
+ ┗ 📜index.html
 
 ## 페이지 구성
 1. HOME
