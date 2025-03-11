@@ -1,6 +1,24 @@
 # HANSUNG
 가상회사 HANSUNG 을 소개하는 정적 웹페이지
 
+## 개발기간
+2025/03 1주일
+
+## 개발인원
+1명
+
+## 기술스택
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+
+## 폴더구조
+index.html -#메인페이지
+css - #스타일
+0. style
+1. header
+2. intro
+3. model
+4. skill
+5. footer
 
 ## 페이지 구성
 1. HOME
